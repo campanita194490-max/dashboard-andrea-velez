@@ -6,3 +6,7 @@ Auxiliar de soporte tecnico con mas de 20 anos de experiencia. Actualmente cursa
 
 ## PROYECTOS
 * **Dashboard E-commerce:** https://dashboard-ecommerce-andrea-velez.streamlit.app/
+## HABILIDADES
+* **IA & Datos:** Python, Streamlit, SQL (UdeA).
+* **Soporte:** CRM, Atención al Cliente (+20 años), Soporte Técnico.
+* **Software:** Excel Avanzado, Photoshop, Git/GitHub.
