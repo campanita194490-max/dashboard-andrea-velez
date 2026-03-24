@@ -1,12 +1,12 @@
 # Andrea Velez Perdomo
-**Auxiliar de Soporte Tecnico | Ciencia de Datos & IA**
+**Data Science Trainee | Experta en Gestion Comercial**
 
-## PERFIL
-Auxiliar de soporte tecnico con mas de 20 anos de experiencia. Actualmente cursando Ciencia de Datos e IA en la UdeA (2025).
+## RESUMEN PROFESIONAL
+Profesional con mas de 20 anos de trayectoria en el area comercial y ventas. Actualmente especializada en Ciencia de Datos e Inteligencia Artificial (UdeA). Mi enfoque une la experiencia en trato al cliente con el analisis de datos.
+
+## EXPERIENCIA DESTACADA
+* **Asesora Comercial / Soporte | EFICACIA** (2017 - 2024)
+* **Asesora Comercial | EXTRAS** (2006 - 2014)
 
 ## PROYECTOS
 * **Dashboard E-commerce:** https://dashboard-ecommerce-andrea-velez.streamlit.app/
-## HABILIDADES
-* **IA & Datos:** Python, Streamlit, SQL (UdeA).
-* **Soporte:** CRM, Atención al Cliente (+20 años), Soporte Técnico.
-* **Software:** Excel Avanzado, Photoshop, Git/GitHub.
